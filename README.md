@@ -3,8 +3,8 @@
 Prototype of an adventure / mystery game with cybersecurity elements.
 Playable at: https://wallflower6.github.io/anon-prototype/ 
 
-Toggle fullscreen mode at the bottom-right corner of the screen.
 ![alt text](https://github.com/wallflower6/anon-prototype/blob/main/readme-imgs/anon-fs.png?raw=true)
+Toggle fullscreen mode at the bottom-right corner of the screen.
 
 Team:
 Graciella (http://github.com/venushmallow) - Development
@@ -15,13 +15,13 @@ Frameworks used:
 Fungus (https://fungusgames.com/)
 
 Game screenshots:
-![Making a choice](https://github.com/wallflower6/anon-prototype/blob/main/readme-imgs/anon-choice.png?raw=true =450x250)
+![Making a choice](https://github.com/wallflower6/anon-prototype/blob/main/readme-imgs/anon-choice.png?raw=true)
 Making a choice
 
-![Cybersecurity concepts](https://github.com/wallflower6/anon-prototype/blob/main/readme-imgs/anon-details.png?raw=true =450x250)
+![Cybersecurity concepts](https://github.com/wallflower6/anon-prototype/blob/main/readme-imgs/anon-details.png?raw=true)
 Introducing cybersecurity concepts
 
-![OSINT](https://github.com/wallflower6/anon-prototype/blob/main/readme-imgs/anon-info.png?raw=true =450x250)
+![OSINT](https://github.com/wallflower6/anon-prototype/blob/main/readme-imgs/anon-info.png?raw=true)
 OSINT-inspired searches
 
 Game Assets:
